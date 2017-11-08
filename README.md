@@ -1,2 +1,2 @@
 # ausPollutionData
-Spatial data analysis of Australian Pollution
+Spatial data analysis of Australian Pollution using Jupyter Notebook.
